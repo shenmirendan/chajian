@@ -1,0 +1,4 @@
+报时文件夹放在 Yunzai-Bot/resources   
+报时JS  放在Yunzai-Bot/lib/example
+
+想要发送啥语音 覆盖报时文件夹的语音就行
